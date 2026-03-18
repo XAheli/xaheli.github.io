@@ -1,14 +1,7 @@
-# Social media links — displayed in the order defined here
-# See: https://github.com/george-gca/jekyll-socials
 email: ahelipoddar2003@gmail.com
 github_username: XAheli
 linkedin_username: ahelipoddar
-twitter_username: XAheli
+x_username: XAheli
 orcid_id: 0009-0009-6262-4103
-kaggle_id: xaheli
 scholar_userid: 4BMvAzEAAAAJ
-rss_icon: true
-huggingface_custom:
-  logo: https://huggingface.co/favicon.ico
-  title: HuggingFace
-  url: https://huggingface.co/xaheli
+kaggle_id: xaheli
