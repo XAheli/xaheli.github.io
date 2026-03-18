@@ -56,6 +56,7 @@ However, there are also drawbacks and challenges. As political scientist Jan Aar
 > _"Democracy is not only about formal voting rights and institutional procedures, but also about social and economic power relations that shape the outcomes of decision-making."_
 
 Key challenges include:
+
 - **Sovereignty concerns** — many states are reluctant to cede decision-making authority to global institutions.
 - **Implementation debates** — some advocate for decentralized approaches, while others argue for centralized governance.
 - **Power imbalances** — powerful states and corporations often have more influence than marginalized communities.
