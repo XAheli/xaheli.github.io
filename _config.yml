@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: aheli-poddar, machine-learning, data-science, academic-website, portfolio-website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🪁 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://xaheli.github.io # the base hostname & protocol for your site
 baseurl: # leave empty for personal site
@@ -128,11 +128,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  # Add external blog sources here if needed
-  # - name: medium.com
-  #   rss_url: https://medium.com/@yourusername/feed
-  #   categories: [external-posts]
-  #   tags: [medium]
+  - name: medium.com
+    posts:
+      - url: https://medium.com/@XAheli/diffusion-models-for-gravitational-lensing-simulation-82f2ef0a36ef
+        published_date: 2025-04-15
+    categories: [tech]
+    tags: [machine-learning, deep-learning]
 
 # -----------------------------------------------------------------------------
 # Newsletter

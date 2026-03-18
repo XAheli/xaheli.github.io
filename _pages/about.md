@@ -7,9 +7,8 @@ subtitle: Senior EE Undergrad · <a href="https://iem.edu.in/">IEM Kolkata</a> �
 profile:
   align: right
   image: profile_headshot.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Kolkata, India</p>
+  image_circular: false # rectangular vertical image
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,3 +33,13 @@ I've interned at **IIT Roorkee**, **Acencore**, **IEM Labs**, and **KIT Germany*
 When I'm not building models or diving into data, you'll probably find me doing something creative or competitive. I used to be an inter-district swimmer and I still get a thrill from staying up late to catch Euro league matches. Music is a big part of my life — I'm trained in Hindustani classical and Rabindra Sangeet, and nothing beats unwinding with a good raga or Tagore song.
 
 I love painting and writing, and I'm always hunting for the next great film. For more on my research and projects, check out my [GitHub](https://github.com/XAheli) and [Projects](/projects/) page!
+
+🤗 [HuggingFace](https://huggingface.co/xaheli)
+
+---
+
+<div style="display: flex; justify-content: center;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=PLACEHOLDER"></script>
+</div>
+
+> _Replace `PLACEHOLDER` above with your ClustrMaps ID. Get one free at [clustrmaps.com](https://clustrmaps.com/add) by entering `xaheli.github.io`._
