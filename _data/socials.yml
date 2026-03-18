@@ -5,3 +5,7 @@ x_username: XAheli
 orcid_id: 0009-0009-6262-4103
 scholar_userid: 4BMvAzEAAAAJ
 kaggle_id: xaheli
+huggingface:
+  logo: fa-solid fa-face-smile
+  title: HuggingFace
+  url: https://huggingface.co/xaheli

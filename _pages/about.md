@@ -34,12 +34,8 @@ When I'm not building models or diving into data, you'll probably find me doing 
 
 I love painting and writing, and I'm always hunting for the next great film. For more on my research and projects, check out my [GitHub](https://github.com/XAheli) and [Projects](/projects/) page!
 
-🤗 [HuggingFace](https://huggingface.co/xaheli)
-
 ---
 
 <div style="display: flex; justify-content: center;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=PLACEHOLDER"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=0qr0tuYah5z5r5rcFTKpAKDg--qAKkqRowWSv8OVgdg&co=55a2d9&cmo=f53d74&cmn=18db18&ct=ffffff"></script>
 </div>
-
-> _Replace `PLACEHOLDER` above with your ClustrMaps ID. Get one free at [clustrmaps.com](https://clustrmaps.com/add) by entering `xaheli.github.io`._

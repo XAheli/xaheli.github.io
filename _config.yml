@@ -131,7 +131,8 @@ external_sources:
   - name: medium.com
     posts:
       - url: https://medium.com/@XAheli/diffusion-models-for-gravitational-lensing-simulation-82f2ef0a36ef
-        published_date: 2025-04-15
+        title: "Diffusion Models for Gravitational Lensing Simulation"
+        published_date: 2025-05-15
     categories: [tech]
     tags: [machine-learning, deep-learning]
 
