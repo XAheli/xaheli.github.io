@@ -226,6 +226,13 @@ ninja.data = [{
           window.open("https://www.kaggle.com/xaheli", "_blank");
         },
       },{
+        id: 'social-huggingface',
+        title: 'Huggingface',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://huggingface.co/xaheli", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
